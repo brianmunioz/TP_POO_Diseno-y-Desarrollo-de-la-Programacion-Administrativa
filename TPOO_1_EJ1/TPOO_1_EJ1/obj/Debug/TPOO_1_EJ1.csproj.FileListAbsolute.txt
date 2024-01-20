@@ -1,0 +1,14 @@
+C:\Users\black rose\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\bin\Debug\TPOO_1_EJ1.exe.config
+C:\Users\black rose\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\bin\Debug\TPOO_1_EJ1.exe
+C:\Users\black rose\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\bin\Debug\TPOO_1_EJ1.pdb
+C:\Users\black rose\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\obj\Debug\TPOO_1_EJ1.csprojAssemblyReference.cache
+C:\Users\black rose\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\obj\Debug\TPOO_1_EJ1.csproj.CoreCompileInputs.cache
+C:\Users\black rose\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\obj\Debug\TPOO_1_EJ1.exe
+C:\Users\black rose\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\obj\Debug\TPOO_1_EJ1.pdb
+C:\Users\Usuario\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\bin\Debug\TPOO_1_EJ1.exe.config
+C:\Users\Usuario\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\bin\Debug\TPOO_1_EJ1.exe
+C:\Users\Usuario\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\bin\Debug\TPOO_1_EJ1.pdb
+C:\Users\Usuario\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\obj\Debug\TPOO_1_EJ1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\obj\Debug\TPOO_1_EJ1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\obj\Debug\TPOO_1_EJ1.exe
+C:\Users\Usuario\Desktop\TPOO_1_EJ1\TPOO_1_EJ1\obj\Debug\TPOO_1_EJ1.pdb

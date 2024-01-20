@@ -1,0 +1,13 @@
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\obj\Debug\netcoreapp3.1\TPOO1_Ej2.csprojAssemblyReference.cache
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\obj\Debug\netcoreapp3.1\TPOO1_Ej2.AssemblyInfoInputs.cache
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\obj\Debug\netcoreapp3.1\TPOO1_Ej2.AssemblyInfo.cs
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\obj\Debug\netcoreapp3.1\TPOO1_Ej2.csproj.CoreCompileInputs.cache
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\bin\Debug\netcoreapp3.1\TPOO1_Ej2.exe
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\bin\Debug\netcoreapp3.1\TPOO1_Ej2.deps.json
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\bin\Debug\netcoreapp3.1\TPOO1_Ej2.runtimeconfig.json
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\bin\Debug\netcoreapp3.1\TPOO1_Ej2.runtimeconfig.dev.json
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\bin\Debug\netcoreapp3.1\TPOO1_Ej2.dll
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\bin\Debug\netcoreapp3.1\TPOO1_Ej2.pdb
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\obj\Debug\netcoreapp3.1\TPOO1_Ej2.dll
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\obj\Debug\netcoreapp3.1\TPOO1_Ej2.pdb
+C:\Users\black rose\Desktop\tpOOnro1\TPOO1_Ej2\TPOO1_Ej2\obj\Debug\netcoreapp3.1\TPOO1_Ej2.genruntimeconfig.cache
